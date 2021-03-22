@@ -25,7 +25,7 @@ This file only tracks mouse movement at the present state and does not have any 
 
 License
 ----------------------------------------
-MIT license
+This project is licensed under the terms of the MIT license.
 
 
 
