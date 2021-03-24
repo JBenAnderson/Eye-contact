@@ -9,7 +9,7 @@ No installation needed
 
 Usage
 ------------------------------------------------
-Drop bigEyes.html into browser and thats it!
+Download eyes folder and load index.html into your favorite browser
 
 
 Roadmap
